@@ -16,4 +16,4 @@ jobs:
     - name: compile
       run: gcc test_potencia.c -o test_potencia
     - name: execute
-      run: ./test_potencia.c
+      run: ./test_potencia
